@@ -1,7 +1,7 @@
 ### Hi, I'm André Moraes 👋
 
 - 🔭 I'm looking for an internship
-- 🌱 I’m currently learning Java, HTML5, CSS and JavaScript
+- 🌱 I’m currently learning HTML5, CSS and JavaScript
 - 💬 Ask me about ...
 - 📫 How to reach me: andretfm26@gmail.com
 
